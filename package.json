@@ -1,14 +1,13 @@
 {
   "name": "@ng.adligo.org/nav",
   "version": "0.0.1",
-  "private": true,
   "dependencies": {
     "@angular/common": "^15.2.0",
     "@angular/compiler": "^15.2.0",
     "@angular/core": "^15.2.0",
     "@angular/platform-browser": "^15.2.0",
     "@angular/platform-browser-dynamic": "^15.2.0",
-    "@angular/router": "^15.2.0",
+    "@angular/router": "^15.2.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^15.2.0",
